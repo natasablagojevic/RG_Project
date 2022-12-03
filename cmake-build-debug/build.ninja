@@ -52,6 +52,7 @@ build cmake_object_order_depends_target_RG_Project: phony || CMakeFiles/RG_Proje
 build CMakeFiles/RG_Project.dir/main.cpp.o: CXX_COMPILER__RG_Project_Debug /home/natasa/Desktop/RG_Project/main.cpp || cmake_object_order_depends_target_RG_Project
   DEP_FILE = CMakeFiles/RG_Project.dir/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++20
+  INCLUDES = -I/home/natasa/Desktop/RG_Project/cmake-build-debug -I/home/natasa/Desktop/RG_Project
   OBJECT_DIR = CMakeFiles/RG_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/RG_Project.dir
 
