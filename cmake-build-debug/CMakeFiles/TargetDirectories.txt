@@ -1,0 +1,3 @@
+/home/natasa/Desktop/RG_Project/cmake-build-debug/CMakeFiles/RG_Project.dir
+/home/natasa/Desktop/RG_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/natasa/Desktop/RG_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
